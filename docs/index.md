@@ -4,7 +4,7 @@ tagline: Learning Style-sensitive Word Vectors from Stylistically Consistent Utt
 ---
 
 # About
-- hoge.
+- This is the project page for our paper titled "Learning Style-sensitive Word Vectors from Stylistically Consistent Utterances".
 
 # Code
 - Coming soon.
