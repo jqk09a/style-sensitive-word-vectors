@@ -1,8 +1,7 @@
-# Style-sensitive Word Vectors
--  hoge
+# Style-sensitive Word Vectorsz
 
 ## About
-- This is the project page for "Learning Style-sensitive Word Vectors from Stylistically Consistent Utterances".
+- hoge.
 
 ## Code
 - Coming soon.
