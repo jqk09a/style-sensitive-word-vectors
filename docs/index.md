@@ -1,6 +1,5 @@
 ---
 title: Style-sensitive Word Vectors
-description: Learning Style-sensitive Word Vectors from Stylistically Consistent Utterances — ACL2018
 ---
 
 # About
