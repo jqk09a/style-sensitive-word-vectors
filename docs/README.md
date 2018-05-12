@@ -1,10 +1,13 @@
-# Style-sensitive Word Vectorsz
-
-## About
+# About
 - hoge.
 
-## Code
+# Code
 - Coming soon.
 
-## Data
+# Data
 - Coming soon.
+
+# Paper
+- To appear
+
+## Bibtex
