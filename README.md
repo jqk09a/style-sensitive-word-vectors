@@ -1,4 +1,4 @@
-# Style-sensitiveWordVectors
+# Style-sensitive Word Vectors
 
 ## Code
 - Coming soon.
