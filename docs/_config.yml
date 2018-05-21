@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
 
 title: Style-sensitive Word Vectors
-description: Learning Style-sensitive Word Vectors from Stylistically Consistent Utterances — ACL2018
+description: Unsupervised Learning of Style-sensitive Word Vectors — ACL2018
 
 google_analytics: UA-110949085-2
