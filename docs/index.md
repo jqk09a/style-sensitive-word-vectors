@@ -1,5 +1,6 @@
 ---
 title: Style-sensitive Word Vectors
+layout: default
 ---
 
 # About
