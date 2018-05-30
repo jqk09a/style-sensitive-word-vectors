@@ -3,4 +3,6 @@ theme: jekyll-theme-cayman
 title: Style-sensitive Word Vectors
 description: Unsupervised Learning of Style-sensitive Word Vectors — ACL2018
 
+show_downloads: true
+
 google_analytics: UA-110949085-2
