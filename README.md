@@ -33,7 +33,7 @@ $ gcc distance_stylevec.c -o distance_stylevec -lm -pthread -O3 -march=native -W
 
 To learn:
 ```
-$ ./stylisticword2vec -train data.txt -output vec.bin
+$ ./word2stylevec -train data.txt -output vec.bin
 ```
 - `data.txt` requires being a text file and being formatted that 1 line has 1 utterance.
 
