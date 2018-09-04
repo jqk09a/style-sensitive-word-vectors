@@ -4,12 +4,12 @@ layout: default
 ---
 
 # About
-This is the project page for our paper titled **"Unsupervised Learning of Style-sensitive Word Vectors"** at ACL2018.
+This is the project page for the paper titled ***"Unsupervised Learning of Style-sensitive Word Vectors"*** at ACL2018.
 
 <!-- > We changed the title of this paper at the time of camera-ready submission. [The official website](http://acl2018.org/programme/papers/) has our previous title, "Learning Style-sensitive Word Vectors from Stylistically Consistent Utterances". -->
 
 <!-- # Research
-Style-sensitive word vectors, which are proposed on our paper "Unsupervised Learning of Style-sensitive Word Vectors", represent stylistic similarity of words. Our paper introduced the notion of stylistic similarity and proposed a method to model stylistic similarity via a purely unsupervised manner without employing predefined stylistic classes/dimensions.
+Style-sensitive word vectors, which are proposed on our paper, represent *stylistic* similarity of words rather than the standard semantic similarity. Our paper introduced the notion of stylistic similarity and proposed a method to model stylistic similarity via a purely unsupervised manner without employing predefined stylistic classes/dimensions.
 
 <center>
 ![space]({{ site.url }}/docs/assets/figs/space.png)
@@ -81,8 +81,9 @@ Our training script is available on [here](https://github.com/jqk09a/style-sensi
 This repository contains code for learning style-sensitive word vectors and analyzing them.
 
 # Data
-Our dataset is available on [here](). <br>
-It is the evaluation dataset for stylistic word similarity task, which we proposed.
+Coming soon.
+<!-- Our dataset is available on [here](). <br>
+It is the evaluation dataset for stylistic word similarity task, which we proposed. -->
 
 # Reference
 If you need, we would appreciate citations to the following paper:
