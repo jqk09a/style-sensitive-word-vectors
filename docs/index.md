@@ -4,7 +4,7 @@ layout: default
 ---
 
 # About
-This is the project page for the paper titled ***"Unsupervised Learning of Style-sensitive Word Vectors"*** at ACL2018.
+This is the project page for the paper titled [***"Unsupervised Learning of Style-sensitive Word Vectors"***](https://aclanthology.info/papers/P18-2091/p18-2091) at ACL2018.
 
 <!-- > We changed the title of this paper at the time of camera-ready submission. [The official website](http://acl2018.org/programme/papers/) has our previous title, "Learning Style-sensitive Word Vectors from Stylistically Consistent Utterances". -->
 
@@ -57,7 +57,7 @@ The following table shows the top similar words for the style-sensitive and synt
 
 <center>
 ![sim4]({{ site.url }}/docs/assets/figs/sim4.png)
-</center> -->
+</center>
 
 <!--
 <table align="center">
@@ -74,16 +74,15 @@ The following table shows the top similar words for the style-sensitive and synt
 |a|b|c|
 |a|b|c|
 </center>
- -->
+ --> -->
 
 # Code
 Our training script is available on [here](https://github.com/jqk09a/style-sensitive-word-vectors). <br>
 This repository contains code for learning style-sensitive word vectors and analyzing them.
 
 # Data
-Coming soon.
-<!-- Our dataset is available on [here](). <br>
-It is the evaluation dataset for stylistic word similarity task, which we proposed. -->
+Our dataset is available on [here](https://github.com/jqk09a/stylistic-word-similarity-dataset-ja). <br>
+It is the evaluation dataset for stylistic word similarity task, which we proposed.
 
 # Reference
 If you need, we would appreciate citations to the following paper:
