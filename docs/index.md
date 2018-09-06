@@ -57,7 +57,7 @@ The following table shows the top similar words for the style-sensitive and synt
 
 <center>
 ![sim4]({{ site.url }}/docs/assets/figs/sim4.png)
-</center>
+</center> -->
 
 <!--
 <table align="center">
@@ -74,7 +74,7 @@ The following table shows the top similar words for the style-sensitive and synt
 |a|b|c|
 |a|b|c|
 </center>
- --> -->
+ -->
 
 # Code
 Our training script is available on [here](https://github.com/jqk09a/style-sensitive-word-vectors). <br>
