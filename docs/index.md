@@ -4,7 +4,7 @@ layout: default
 ---
 
 # About
-This is the project page for the paper titled [***"Unsupervised Learning of Style-sensitive Word Vectors"***](https://aclanthology.info/papers/P18-2091/p18-2091) at ACL2018.
+This is the project page for the paper titled [***"Unsupervised Learning of Style-sensitive Word Vectors"***](https://www.aclweb.org/anthology/P18-2091/) at ACL2018.
 
 <!-- > We changed the title of this paper at the time of camera-ready submission. [The official website](http://acl2018.org/programme/papers/) has our previous title, "Learning Style-sensitive Word Vectors from Stylistically Consistent Utterances". -->
 
