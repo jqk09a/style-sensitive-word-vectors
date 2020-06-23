@@ -19,7 +19,7 @@ The modified points from original word2vec are as follows:
     - Extended to show the results of word vector, style vector, and syntactic/semantic vector respectively.
 
 
-Reina Akama @ 2018
+Reina Akama@2018
 
 
 ## How to run
